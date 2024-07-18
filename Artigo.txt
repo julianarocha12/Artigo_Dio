@@ -1,0 +1,48 @@
+ASSUNTO
+
+Segurança cibernética
+
+TITULO
+
+Como Proteger seus Dados Pessoais em um Mundo Digital
+
+BLOCOS
+- O que é Segurança cibernética
+	- Cite exemplos no mundo tecnologico
+- Como proteger os dados pessoais
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hashtags que façam sentido
+
+Comporte-se como um escritor de artigos tech e escreva o Artigo atendendo as regras abaixo: 
+
+{Regras}
+> No maximo 5 linhas por blocos de explicação
+> Me explique de maneira informal, como se fosse uma criança de 10 anos
+> Os blocos que serão criados estão abaixo:
+- O que é Segurança cibernética
+	- Cite exemplos no mundo tecnologico
+- Como proteger os dados pessoais
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hashtags que façam sentido
+
+INTRODUÇÃO
+O que é Segurança Cibernética
+Ei, já pensou que seu computador e celular são como cofres para suas coisas valiosas? Segurança cibernética é como se fossem os cadeados e alarmes que mantêm os ladrões longe. Quando usamos senhas fortes e antivírus, é como se estivéssemos fechando todas as portas e janelas da nossa casa virtual para que ninguém entre sem permissão.
+
+Exemplos no Mundo Tecnológico
+Você já ouviu falar dos hackers? Eles são tipo bandidos digitais que tentam roubar suas coisas online, como fotos e senhas. E os vírus? Eles são como aqueles resfriados chatos que fazem seu computador ficar devagar ou até parar de funcionar. A segurança cibernética é a defesa contra esses problemas, mantendo tudo seguro e funcionando direitinho.
+
+Como Proteger os Dados Pessoais
+Quer proteger suas coisas? Então, use senhas que não sejam fáceis de adivinhar, como "123456". Não compartilhe suas senhas com ninguém e sempre tenha um programa de segurança instalado. E sabe aqueles e-mails ou mensagens estranhas pedindo informações? Fuja deles como se fossem monstros!
+
+Call to Action
+Gostou das dicas? Então, me segue nas redes sociais para mais truques legais e dicas sobre como se manter seguro no mundo digital. Vamos juntos aprender e nos proteger!
+
+Hashtags
+#SegurançaCibernética #ProtejaSeusDados #TechParaTodos
+
+Conclusão
+Viu como é importante manter nossos dados seguros? Com algumas medidas simples, como usar senhas fortes e ficar de olho em mensagens estranhas, podemos proteger nosso mundo digital. Segurança cibernética não é um bicho de sete cabeças, mas sim uma armadura que todos podemos usar para navegar tranquilos pela internet. Então, vamos juntos nessa jornada para um mundo online mais seguro e divertido!
+
+Ilustrações de capa: gerada pela lexica.art
+Conteúdo gerado por: ChatGPT e revisões humanas
